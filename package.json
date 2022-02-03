@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  },
+  "name": "lesson-10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

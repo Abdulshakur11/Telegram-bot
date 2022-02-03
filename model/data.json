@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "sura_name": "Al-Kaafiroon",
+    "sura_number": "109",
+    "sura_audio": "./audios/kafirun.mp3"
+  },
+  {
+    "id": 2,
+    "sura_name": "An-Nasr",
+    "sura_number": "110",
+    "sura_audio": "./audios/an-nasr.mp3"
+  },
+  {
+    "id": 3,
+    "sura_name": "Al-Masad",
+    "sura_number": "111",
+    "sura_audio": "./audios/al-masad.mp3"
+  },
+  {
+    "id": 4,
+    "sura_name": "Al-Ikhlaas",
+    "sura_number": "112",
+    "sura_audio": "./audios/al-ixlas.mp3"
+  },
+  {
+    "id": 5,
+    "sura_name": "Al-Falaq",
+    "sura_number": "113",
+    "sura_audio": "./audios/al-falaq.mp3"
+  },
+  {
+    "id": 6,
+    "sura_name": "An-Naas",
+    "sura_number": "114",
+    "sura_audio": "./audios/an-nass.mp3"
+  }
+]
